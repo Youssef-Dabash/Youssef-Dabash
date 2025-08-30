@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Youssef Dabash</h1>
-<h3 align="center">.NET Back-End Developer | Computer Science Student at Menoufia University</h3>
+<h3 align="center">Dot NET Back-End Developer | Computer Science Student at Menoufia University</h3>
 
 ---
 
 ### 👨‍🎓 About Me  
 - 🎓 I’m a **Computer Science student** at **Faculty of Science, Menoufia University**.  
-- 💻 I’m a **Back-End Developer** specialized in **.NET Core**.  
+- 💻 I’m a **Back-End Developer** specialized in **Dot NET Core**.  
 - 🌱 Currently learning **Full Stack Development**.  
 - 💡 Interested in building scalable back-end systems and APIs.  
-- 💬 Ask me about **C#, .NET Core, SQL Server, and OOP concepts**.  
+- 💬 Ask me about **C#, ASP.NET Core, SQL Server, and OOP concepts**.  
 - 📫 Reach me at **youssefmohammeddabash@gmail.com**.  
 
 ---
@@ -32,8 +32,10 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=bootstrap,visualstudio,vscode,git,github" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
+
 
 ### 📚 Computer Science Knowledge
 - Object-Oriented Programming (OOP)  
@@ -44,7 +46,7 @@
 - Software Engineering  
 
 ### 💻 .NET Specialization
-- .NET Core  
+- Dot NET Core  
 - Entity Framework Core (EF Core)  
 - LINQ  
 - ADO.NET  
