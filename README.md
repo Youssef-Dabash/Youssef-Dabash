@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Youssef Dabash</h1>
 <h3 align="center">.NET Back-End Developer | Computer Science Student at Menoufia University</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif"/>
-</p>
-
 ---
 
 ### 👨‍🎓 About Me  
@@ -59,18 +55,6 @@
 ### 🔧 Version Control
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github" />
-</p>
-
----
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Youssef-Dabash&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Youssef-Dabash&theme=radical" alt="GitHub Streak" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Dabash&layout=compact&theme=radical" width="48%"/>
 </p>
 
 ---
