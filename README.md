@@ -74,15 +74,4 @@
 
 ---
 
-### 📚 Currently Learning / Next on My Roadmap  
-
-- **Software Engineering Principles**  
-  - Design Patterns  
-  - SOLID Principles  
-  - Clean Architecture  
-
-- **Dot NET Advanced Topics**  
-  - SignalR (Real-time communication)  
-
----
 
