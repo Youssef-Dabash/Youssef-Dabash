@@ -83,11 +83,6 @@
 
 - **Dot NET Advanced Topics**  
   - SignalR (Real-time communication)  
-  - Blazor (Full-stack .NET web apps)  
-
-- **Front-End Frameworks**  
-  - React.js  
-  - Next.js  
 
 ---
 
