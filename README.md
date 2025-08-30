@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Youssef Dabash</h1>
-<h3 align="center">Dot NET Back-End Developer | Computer Science Student at Menoufia University</h3>
+<h3 align="center">Dot Net Back-End Developer | Computer Science Student at Menoufia University</h3>
 
 ---
+<p align="center"> 
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=Youssef-Dabash&label=👀%20Profile%20Views&color=ff6347&style=for-the-badge" alt="Youssef-Dabash" />
+</p>
 
 ### 👨‍🎓 About Me  
 - 🎓 I’m a **Computer Science student** at **Faculty of Science, Menoufia University**.  
@@ -54,10 +58,36 @@
 - ASP.NET MVC  
 - ASP.NET Web API  
 
-### 🔧 Version Control
-<p align="left">
+### 🛠️ Tools & Technologies
+
+- **Version Control**  
   <img src="https://skillicons.dev/icons?i=git,github" />
-</p>
+
+- **IDEs & Editors**  
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode" />
+
+- **Frameworks & Libraries**  
+  <img src="https://skillicons.dev/icons?i=dotnet,bootstrap" />
+
+- **Databases**  
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+
+---
+
+### 📚 Currently Learning / Next on My Roadmap  
+
+- **Software Engineering Principles**  
+  - Design Patterns  
+  - SOLID Principles  
+  - Clean Architecture  
+
+- **Dot NET Advanced Topics**  
+  - SignalR (Real-time communication)  
+  - Blazor (Full-stack .NET web apps)  
+
+- **Front-End Frameworks**  
+  - React.js  
+  - Next.js  
 
 ---
 
