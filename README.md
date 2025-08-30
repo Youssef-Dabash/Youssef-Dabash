@@ -19,7 +19,7 @@
 
 ### 🌐 Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/youssef-m-dabash-555162299?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
+<a href="https://www.linkedin.com/in/youssef-dabash-555162299?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
   <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40"/></a>
 <a href="mailto:youssefmohammeddabash@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="gmail" height="40"/></a>
 <a href="https://github.com/Youssef-Dabash" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="github" height="40"/></a>
