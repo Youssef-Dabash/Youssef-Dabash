@@ -58,20 +58,6 @@
 - ASP.NET MVC  
 - ASP.NET Web API  
 
-### 🛠️ Tools & Technologies
-
-- **Version Control**  
-  <img src="https://skillicons.dev/icons?i=git,github" />
-
-- **IDEs & Editors**  
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode" />
-
-- **Frameworks & Libraries**  
-  <img src="https://skillicons.dev/icons?i=dotnet,bootstrap" />
-
-- **Databases**  
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-
 ---
 
 
